@@ -1,0 +1,6 @@
+{
+    "perlnavigator.includePaths": [
+        "$workspaceFolder/build/extlib/lib/perl5/",
+        "$workspaceFolder/lib/",
+    ]
+}
